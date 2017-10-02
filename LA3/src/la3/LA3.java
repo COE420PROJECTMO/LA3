@@ -16,6 +16,9 @@ public class LA3 {
     /**
      * @param args the command line arguments
      */
+    public void feature_a(){
+        System.out.println("feature a added");
+    }
     public static void main(String[] args) {
         
         // TODO code application logic here
