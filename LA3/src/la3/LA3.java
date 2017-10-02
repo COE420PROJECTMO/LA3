@@ -10,11 +10,14 @@ package la3;
  * @author b00059377
  */
 public class LA3 {
-
+    public void feature_b(){
+        System.out.println("feature b added");
+    }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         // TODO code application logic here
     }
     
